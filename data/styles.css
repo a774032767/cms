@@ -9,6 +9,28 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._图片 {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -48,4 +70,18 @@
   text-align:left;
 }
 .line {
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+._自由编辑 {
+}
+.connector {
+}
+.flow_shape {
+}
+.icon {
 }
